@@ -1,2 +1,2 @@
 # postgresql-operator
-Resources for various kubernetes postgresql operators
+Resources for various DBaaS using K8s operators
